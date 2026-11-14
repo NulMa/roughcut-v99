@@ -23,6 +23,7 @@
 @container (max-height:460px){#art .rc-rules{display:none}}`;
   const tips = [
     'First visit only: the browser keeps the files, so the next launch skips this download.',
+    'Want the sharpest picture? The Windows download renders at your screen’s full resolution with the complete ink pass.',
     'Lost a take? Pick "Edit weapon" and redraw your weapon in the Editing Room, then roll again.',
     'Every attack is drawn on the floor before it lands. Watch the tiles, not the boss.',
     'Parry on the beat to stagger a boss. A perfect parry freezes the frame.',
